@@ -10,6 +10,7 @@ namespace MCD_OOPInterfaceNedir
     {
         static void Main(string[] args)
         {
+                    
         }
     }
 }
